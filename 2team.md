@@ -77,6 +77,13 @@ permalink: /team/
  E-mail:[novikov.roman.2017@post.bio.msu.ru](mailto:novikov.roman.2017@post.bio.msu.ru)
    </td>
   </tr>
+
+<tr>
+<td markdown="span"> <img src="{{ "/assets/Preety.jpg" | relative_url }}" width="200px" /> </td>
+<td markdown="span"><b>Singh Lovepreet - PHD student</b> <br> Lovepreet recieved her M.S. in bioinformatics from High School of Economics, Russia. She is currently pursuing PHD studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+[Curriculum Vitae]({{ "/cv/l_singh.pdf" | relative_url }}) | E-mail: [l.singh@intbio.org](mailto:l.singh@intbio.org) 
+</td>
+</tr>
   
  
  
